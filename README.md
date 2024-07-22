@@ -36,10 +36,10 @@ We make the implementation process seamless, allowing you to concentrate on mark
 - **Backend**: JavaScript
 
 ## Buying
-Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_profile_share&ltsid=6fabea08-49fe-4ea4-a08c-5a8f9114d159)
+Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
 
 <p float="left">
-  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/70b1cc8a-616e-4d51-8b7d-4db20d33c94e" width="200" />
+  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
 </p>
 
 
@@ -130,9 +130,3 @@ Contributions are welcome! Please create a pull request with your proposed chang
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Buying
-Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
-
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
-</p>
