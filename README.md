@@ -129,3 +129,10 @@ Contributions are welcome! Please create a pull request with your proposed chang
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Buying
+Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
+</p>
