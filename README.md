@@ -64,8 +64,12 @@ Our clones come with a **user-friendly admin panel** that gives you full control
 - **Real-Time Updates**: All task updates and system changes are reflected in real-time, ensuring a seamless experience for your users.
 - **Reward Management**: Manage all in-game rewards, airdrops, and referral bonuses directly from the panel.
   
-## Pricing
-The **source code** for our mini-game clones is priced at **300 USDT (ERC20)**, which includes **free installation** to ensure a hassle-free setup. You'll get a fully functional, ready-to-use game deployed on your Telegram server.
+## Pricing and Installation
+
+- **Price**: 300 USDT (ERC20)
+- **Includes**: Free installation
+  
+The **source code** for our mini-game clone is priced at **300 USDT (ERC20)**, which includes **free installation** to ensure a hassle-free setup. You'll get a fully functional, ready-to-use game deployed on your Telegram server.
 
 ## How to Buy
 To purchase our game clone,
