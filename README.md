@@ -1,39 +1,55 @@
-# Hamster Kombat Clone | Telegram Game
+# Notcoin-tapswap-Telegram-mini-App-Clone
 
-Looking to launch your own NotCoin or Hamster Kombat-style game without the heavy investment of time and money in development and support? Our service has you covered.
+Welcome to the **Gazacoin Mini-Game**! This repository contains all the information and code needed to get started with our engaging and rewarding tapping game designed for the Gazacoin community.
 
-We make the implementation process seamless, allowing you to concentrate on marketing and sales.
+## Overview
 
-## Main Features
+Gazacoin Mini-Game is a simple yet addictive game where players tap on the screen to earn points and coins. The game is designed to integrate with the Gazacoin ecosystem, allowing players to purchase upgrades, earn Gazacoins, and even engage in offline mining. The game also features social components, where players can invite friends and participate in referral programs to earn even more rewards.
 
-### Available Options:
-- **Telegram Mini App**
-- **Telegram Authorization**
-- **Mobile-Friendly Design**
-- **Admin Panel**
-- **Figma Design File**
-- **Localization Support**
-- **DDoS Protection (DevOps)**
-- **CI/CD Integration (DevOps)**
-- **Advanced Referral Program (Marketing)**
-- **Community Engagement Tasks (Marketing)**
-- **Google Analytics (Marketing)**
-- **Microsoft Clarity (Marketing)**
-- **Additional Features Upon Request**
+## Watch the Game in Action
 
-## Bot Previews
-<p float="left">
-  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/660761b7-cc4c-4e6b-a76c-0d37b82d09d0" width="200" />
-  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/3c64a45a-8ca6-42ec-99b5-f83ce5ac7ecb" width="200" />
-  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/b6935cf2-11ef-4601-b727-1f6dc64d9daa" width="200" />
-  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/eccf3bf3-2f18-4593-ae78-1152c4a3b3ac" width="200" />
-  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/1c62be6f-b5da-46ea-90af-8981a63597bf" width="200" />
-  <img src="https://github.com/Chainsoft-official/GazaCoinBot/assets/175082161/904aac3b-c3b9-46bb-bddd-09a134671dd5" width="200" />
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=U6bFDPL6AmM&t=154s" target="_blank">
+    <img src="https://img.youtube.com/vi/U6bFDPL6AmM/0.jpg" alt="Gazacoin Mini-Game Overview" width="600" />
+  </a>
 </p>
 
-## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: JavaScript
+Click the image above to watch the video.
+
+## Features
+
+### 1. Tapping Game Mechanics
+- **Central Coin**: Players tap on a central coin displayed on the screen to earn points.
+- **Energy Bar**: Located at the bottom of the screen, this bar decreases with each tap but refills over time, allowing continuous gameplay.
+
+### 2. Boost Features
+- **Refill Energy**: Players can refill their energy up to six times a day to extend their gameplay.
+- **Multitap Upgrade**: This feature allows players to double their earnings per tap by upgrading their tapping capability.
+- **Boost Energy**: Initially, energy is capped at 500, but players can upgrade this limit to 3000, enhancing their gameplay duration.
+
+### 3. Level Progression
+- The background images change as players progress through different levels, providing a visual representation of their advancement. For example, Level 1 features a "Tent" image, which evolves into a "Small Brick House" by Level 3.
+
+### 4. Offline Mining
+- **Offline Mining Tab**: Players can upgrade their mining capabilities using tokens earned in the game. Even when not actively using the app, mining continues, providing a steady flow of Gazacoins.
+
+### 5. Social and Referral Features
+- **Friends Tab**: Players can invite friends using a referral link. When a friend joins the game through the link, both the player and the friend earn 5K Gazacoins. If the friend holds an NFT, additional bonuses are awarded.
+- **Referral Tasks**: Players can complete daily referral tasks to earn extra Gazacoins, further engaging with the community.
+
+### 6. Earn Tab
+- A variety of daily tasks are available for players to complete, including:
+  - Social media engagements
+  - Quizzes
+  - Watching YouTube videos
+  - Referral tasks
+
+### 7. Airdrop Feature
+- **Airdrop Integration**: When a player connects their TON Wallet, their address is saved in the database, allowing for seamless participation in airdrops.
+
+## Bot Previews
+
+<img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/bin/thumbnail.png" />
 
 ## Buying
 Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
@@ -42,91 +58,12 @@ Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_ad
   <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
 </p>
 
-
-## Live Demo
-
-Interested in a live demo of our NotCoin-like game? Contact us for a personal demo and get all your questions answered.
-
-- **[Join Our Telegram]** : [Telegram](https://web.telegram.org/a/)
-- **WhatsApp** : +923066303835
-- **Instagram** : [Instagram](https://www.instagram.com/chainsoftofficial?utm_source=qr&igsh=MWJ5aG9kY2VtZ3VmNw==)
-
-
-## Supported Networks
-
-We support a wide variety of networks, including but not limited to:
-- Ethereum
-- Arbitrum
-- Optimism
-- Polygon
-- Base
-- BSC (BNB Chain, Binance Smart Chain)
-- Avalanche
-- Celo
-- Blast
-- Polkadot
-- Solana
-- TON
-- Tron
-
-If your preferred network isn't listed, reach out to us for support.
-
-## Frequently Asked Questions
-
-<details>
-  <summary>What is the NotCoin Script?</summary>
-  NotCoin Script is a Package Solution of a simple Telegram Clicker Game with marketing mechanics, aimed at significantly reducing the cost of community formation for Web3 projects.
-
-  The best examples of this script are NotCoin & Hamster Kombat games.
-</details>
-
-<details>
-  <summary>What's the cost of the NotCoin Script?</summary>
-  Our NotCoin Script is distributed according to the White Label model. We have 3 offers for you:
-
-  - **Basic Package** - $10,000 first payment and 5% of revenue. The solution will be adapted for you and deployed on your server. Product maintenance will be free.
-  - **NoFee Package** - $20,000 first payment and $2,000 per year for maintenance. Suitable if you have a large community and there will be many users from the start.
-  - **Special Offer** - $0. If you have a large community and are looking for a technological partner in the share, this option may be useful for you. We provide CTO and team as our investment.
-</details>
-
-<details>
-  <summary>How much time do you need to make a Telegram Clicker Game?</summary>
-  Since this is a White-Label solution, its development and launch takes 3-4 times less time than developing it from scratch.
-
-  You will receive a ready-made solution in less than a month.
-</details>
-
-<details>
-  <summary>What kinds of networks does your crypto lottery script work with?</summary>
-  All Ethereum-derived networks are currently supported, such as: Ethereum, Arbitrum, Optimism, Polygon, Base, BNB Chain, Avalanche, Celo, and many others. We also support the native Telegram network - TON.
-</details>
-
-<details>
-  <summary>Is the Payment Gateway included in the NotCoin Script?</summary>
-  No, as it requires a license. If you have the appropriate license, we can add this functionality for an additional fee by integrating with the bank or payment gateway you need.
-</details>
-
-<details>
-  <summary>Can we host the product on our server?</summary>
-  Yes, we can configure CI/CD so that all updates are automatically deployed to your server.
-</details>
-
-
-## Summary
-
-Creating a successful product requires significant time, focus, and financial investment. If you're committed to your project's long-term success, we can be your technology partner throughout the journey.
-
-## Additional Solutions
-- **NotCoin-Like Game**
-- **Crypto Lottery**
-- **Dex Platform**
-- **ICO & IDO Launchpad**
-- **NFT Marketplace**
-- **Meme Coin Solution**
-
-## Contributing
-Contributions are welcome! Please create a pull request with your proposed changes and ensure they adhere to the coding standards of the project.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+## Contact
+- **Telegram** : [Telegram](https://web.telegram.org/a/)
+- **WhatsApp** : +923066303835
+- **Instagram** : [Instagram](https://www.instagram.com/chainsoft_officiall/)
+
+For a detailed video walkthrough of the Gazacoin Mini-Game, watch [this YouTube video](https://www.youtube.com/watch?v=U6bFDPL6AmM&t=154s).
